@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "the same as…",
+  "base_artist": "ONE OK ROCK",
+  "createdAt": "2025-12-03T14:37:07.220522Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "the same as...",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/01_the_same_as..._ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Same as I",
+      "artist": "Dirt Poor Robins",
+      "has_synced": true,
+      "path": "select/02_The_Same_as_I_Dirt_Poor_Robins.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "the same as...",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/03_the_same_as..._ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Same as Being In Love",
+      "artist": "Harvey Danger",
+      "has_synced": true,
+      "path": "select/04_The_Same_as_Being_In_Love_Harvey_Danger.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Do the Same as My Brother Do (feat. RZA)",
+      "artist": "Wu-Tang Clan",
+      "has_synced": true,
+      "path": "select/05_Do_the_Same_as_My_Brother_Do_(feat._RZA)_Wu-Tang_Clan.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Do the Same as My Brother Do",
+      "artist": "Wu‐Tang Clan feat. RZA",
+      "has_synced": true,
+      "path": "select/06_Do_the_Same_as_My_Brother_Do_Wu‐Tang_Clan_feat._RZA.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Stay (The Same as Yesterday)",
+      "artist": "Kevin Max",
+      "has_synced": true,
+      "path": "select/07_Stay_(The_Same_as_Yesterday)_Kevin_Max.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "the same as...",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/08_the_same_as..._ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "and i'm just the same as i always was",
+      "artist": "Daisy the Great",
+      "has_synced": true,
+      "path": "select/09_and_i'm_just_the_same_as_i_always_was_Daisy_the_Great.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Do the Same as My Brother Do",
+      "artist": "Wu-Tang Clan",
+      "has_synced": true,
+      "path": "select/10_Do_the_Same_as_My_Brother_Do_Wu-Tang_Clan.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "the same as...",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/11_the_same_as..._ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Same as You",
+      "artist": "IONS",
+      "has_synced": false,
+      "path": "select/12_The_Same_as_You_IONS.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "and i'm just the same as i always was",
+      "artist": "Daisy the Great",
+      "has_synced": true,
+      "path": "select/13_and_i'm_just_the_same_as_i_always_was_Daisy_the_Great.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "the same as...",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/14_the_same_as..._ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "It’s Not the Same as Love",
+      "artist": "Starship feat. Mickey Thomas",
+      "has_synced": false,
+      "path": "select/15_It’s_Not_the_Same_as_Love_Starship_feat._Mickey_Thomas.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "the same as…",
+      "artist": "ONE OK ROCK",
+      "has_synced": false,
+      "path": "select/pl_01_the_same_as..._ONE_OK_ROCK.txt"
+    }
+  ]
+}
