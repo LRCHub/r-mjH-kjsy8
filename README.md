@@ -1,0 +1,71 @@
+# ONE OK ROCK – the same as…
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:00.96] 何気ない日々Just the same old thing
+[00:04.99] 何が欠けて足りないか...
+[00:08.87] 気付かないフリしててもI can't run away from myself
+[00:28.37] 
+[00:16.15] I try to show you I'm strong
+[00:18.48] Just a kid all long
+[00:20.74] うまく甘えたい気持ちが
+[00:24.52] へたくそな強がりにしかならず
+[00:31.52] 
+[00:32.62] The shape of love is
+[00:34.98] The same as your heart is
+[00:37.17] It doesn't matter who you are
+[00:40.94] So tell me my heart is
+[00:43.06] The same as yours is
+[00:53.06] 
+[01:12.05] さりげなくもらう その愛情は とても不可解で...
+[01:17.84] 素直には受入れられず何かをまだ閉ざしたまま
+[01:28.34] 
+[01:23.50] No matter how much you say
+[01:25.36] I can't escape
+[01:26.61] 今何かを変えていくことで
+[01:29.67] この先に広がる何かを変える
+[01:36.17] 
+[01:35.73] The shape of love is
+[01:37.38] The same as your heart is
+[01:38.91] It doesn't matter who you are
+[01:41.74] So tell me my heart is
+[01:43.32] The same as yours is
+[01:45.01] たとえ儚くとも
+[01:47.66] 悲しいとき 寂しいとき
+[01:50.76] いつもそばにあるから
+[01:54.15] And we hold every moment
+[01:55.91] 'Cause that's what family is for
+[02:11.91] 
+[02:00.77] かけがえのないものを捨てる勇気なんて
+[02:06.62] 僕にはこれっぽっちも持ち合わせてはないけど
+[02:17.12] 
+[02:11.79] 時々何故か手放して困らせたい時がある
+[02:18.13] ひねくれた可愛げのない僕
+[02:24.13] 
+[02:24.22] The shape of love is
+[02:25.77] The same as your heart is
+[02:27.39] It doesn't matter who you are
+[02:30.30] So tell me my heart is
+[02:31.71] The same as yours is
+[02:33.32] たとえ儚くとも
+[02:36.13] 悲しいとき 寂しいとき
+[02:39.30] いつもそばにあるから
+[02:42.69] And we hold every moment
+[02:44.26] 'Cause that's what family is for
+[03:00.26] 
+[02:57.86] Gone too far
+[03:00.44] For so long
+[03:03.11] But to find
+[03:05.77] You've been right here all along
+[03:11.51] I wanna take you away from here
+[03:27.01] 
+[03:22.62] この世界中で何があろうと
+[03:25.54] 僕を愛してくれて
+[03:28.64] いつでもそっと優しくそっと
+[03:31.51] 見守り続けてる
+[03:34.65] 強くも弱く時に厳しく
+[03:37.68] 温かな ぬくもり
+[03:41.13] And we hold every moment
+[03:42.96] 'Cause that's what family is for
+```
